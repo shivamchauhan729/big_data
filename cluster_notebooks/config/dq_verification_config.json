@@ -1,0 +1,6 @@
+{"dq_verification_config_id":"1","database_name":"default","create_utc_ts":"","dataset_id":"1001","Table_name":"merchant_cln","update_utc_ts":"","check":".isUnique(\"merchant_id\")","br_identification_required":"No"},
+{"dq_verification_config_id":"2","database_name":"default","create_utc_ts":"","dataset_id":"1001","Table_name":"merchant_cln","update_utc_ts":"","check":".isComplete(\"merchant_id\")","br_identification_required":"Yes"},
+{"dq_verification_config_id":"3","database_name":"default","create_utc_ts":"","dataset_id":"1001","Table_name":"merchant_cln","update_utc_ts":"","check":".isComplete(\"state\")","br_identification_required":"Yes"},
+{"dq_verification_config_id":"4","database_name":"default","create_utc_ts":"","dataset_id":"1002","Table_name":"user_cln","update_utc_ts":"","check":".isUnique(\"id\")","br_identification_required":"No"},
+{"dq_verification_config_id":"5","database_name":"default","create_utc_ts":"","dataset_id":"1002","Table_name":"user_cln","update_utc_ts":"","check":".isComplete(\"id\")","br_identification_required":"Yes"},
+{"dq_verification_config_id":"6","database_name":"default","create_utc_ts":"","dataset_id":"1002","Table_name":"user_cln","update_utc_ts":"","check":".isComplete(\"sign_in_count\")","br_identification_required":"Yes"}

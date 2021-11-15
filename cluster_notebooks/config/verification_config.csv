@@ -1,0 +1,4 @@
+dq_verification_config_id,modified_column_name,database_name,create_utc_ts,dataset_id,Table_name,update_utc_ts,check_name,check
+1,"","default","",1001,"merchant_cln","","Sellbrite_merchant_cln_checks",".isComplete('merchant_id')"
+2,"","default","",1001,"merchant_cln","","Sellbrite_merchant_cln_checks",".isUnique('merchant_id')"
+3,"","default","",1001,"merchant_cln","","Sellbrite_merchant_cln_checks",".isNonNegative('merchant_id')"

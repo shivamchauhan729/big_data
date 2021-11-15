@@ -1,0 +1,13 @@
+{"dev":{
+"Table_name":["merchant_cln"],
+"merchant_cln":{
+"dq_verification_config_id":"1",
+"create_utc_ts":"",
+"dataset_id":"1001",
+"update_utc_ts":"",
+"check":"isNonNegative('merchant_id')",
+"check_name":"Sellbrite_merchant_cln_checks"}
+
+}
+
+}
