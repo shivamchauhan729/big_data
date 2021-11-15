@@ -1,0 +1,11 @@
+Legacy Id,Entry Scanning Location Legacy Id,Exit Scanning Location Legacy Id,Contact Legacy Id,Entry Scanning Location Name,Scan In Time,Scan Out Time,Legacy Course Option Id,Is Program Scan,Optional Staff Stamp,Requires Scan Out,Grade as of Visit,School as of Scan Date
+FacVisitLegacyId1,ScanLocationLegacyId1,ExitLocationLegacyId1,113,Sample Power Hour,5/19/2021 3:22,5/29/2021 3:22,CourseOptionId1,TRUE,Optional stamp text1,TRUE,Grade 2,ABC School
+FacVisitLegacyId2,ScanLocationLegacyId2,ExitLocationLegacyId2,117,Sample Visitor Center,5/20/2021 3:22,5/30/2021 3:22,CourseOptionId2,FALSE,Optional stamp text2,FALSE,Grade 3,ABC School
+FacVisitLegacyId3,ScanLocationLegacyId3,ExitLocationLegacyId3,120,Sample Front Desk,5/21/2021 3:22,5/31/2021 3:22,CourseOptionId3,TRUE,Optional stamp text3,TRUE,Grade 4,ABC School
+FacVisitLegacyId4,ScanLocationLegacyId4,ExitLocationLegacyId4,122,Sample Front Desk,5/22/2021 3:22,6/1/2021 3:22,CourseOptionId4,FALSE,Optional stamp text4,FALSE,Grade 5,ABC School
+FacVisitLegacyId5,ScanLocationLegacyId5,ExitLocationLegacyId5,156,Sample Power Hour,5/23/2021 3:22,6/2/2021 3:22,CourseOptionId5,TRUE,Optional stamp text5,TRUE,Grade 6,DEF School
+FacVisitLegacyId6,ScanLocationLegacyId6,ExitLocationLegacyId6,117,Sample Power Hour,5/24/2021 3:22,6/3/2021 3:22,CourseOptionId6,FALSE,Optional stamp text6,FALSE,Grade 3,DEF School
+FacVisitLegacyId7,ScanLocationLegacyId7,ExitLocationLegacyId7,120,Sample After Care,5/25/2021 3:22,6/4/2021 3:22,CourseOptionId7,TRUE,Optional stamp text7,TRUE,Grade 4,DEF School
+FacVisitLegacyId8,ScanLocationLegacyId8,ExitLocationLegacyId8,122,Sample Power Hour,5/26/2021 3:22,6/5/2021 3:22,CourseOptionId8,FALSE,Optional stamp text8,FALSE,Grade 5,DEF School
+FacVisitLegacyId9,ScanLocationLegacyId9,ExitLocationLegacyId9,156,Sample Power Hour,5/27/2021 3:22,6/6/2021 3:22,CourseOptionId9,TRUE,Optional stamp text9,TRUE,Grade 6,DEF School
+FacVisitLegacyId10,ScanLocationLegacyId10,ExitLocationLegacyId10,113,Test Scanning Location Name 1,5/28/2021 3:22,5/28/2021 3:22,CourseOptionId10,FALSE,Optional stamp text10,FALSE,Grade 3,DEF School

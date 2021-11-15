@@ -1,0 +1,11 @@
+Legacy Id,Account Legacy Id,Contact Legacy Id,Membership Type,Membership Status,Category Name,Record Type Name,Membership Start Date,Membership End Date,Membership Category Legacy ID
+LegacyMembershipID1,123181,113,Adult,Draft,School Year Memberships - James T. Anderson Boys & Girls Club,Punch Pass Membership,8/2/2021,6/1/2022,MembershipCategoryID1
+LegacyMembershipID2,123185,117,Adult,Active,Staff and Volunteer,Standard Membership,5/19/2021,12/31/2021,MembershipCategoryID2
+LegacyMembershipID3,123188,120,Adult,Active,Staff and Volunteer,Punch Pass Membership,5/25/2021,12/31/2021,MembershipCategoryID3
+LegacyMembershipID4,SM3220,122,Adult,Active,Staff and Volunteer,Standard Membership,5/19/2021,12/31/2021,MembershipCategoryID4
+LegacyMembershipID5,SH2504,156,Adult,Pending Active,School Year Memberships - James T. Anderson Boys & Girls Club,Punch Pass Membership,8/2/2021,6/1/2022,MembershipCategoryID5
+LegacyMembershipID6,123185,117,Adult,Pending Active,Haabiba's WSBGClub Main Memberships - SY2021-22,Standard Membership,8/30/2021,6/29/2022,MembershipCategoryID6
+LegacyMembershipID7,123188,120,Adult,Draft,Cope Boys & Girls Club School Year Memberships,Punch Pass Membership,8/15/2021,8/14/2022,MembershipCategoryID7
+LegacyMembershipID8,SM3220,122,Adult,Draft,School Year Membership - MCAA Boys & Girls Club,Standard Membership,8/2/2021,6/1/2022,MembershipCategoryID8
+LegacyMembershipID9,SH2504,156,Adult,Pending Active,School Year Membership - MCAA Boys & Girls Club,Punch Pass Membership,8/2/2021,6/1/2022,MembershipCategoryID9
+LegacyMembershipID10,123181,113,Adult,On Hold,Test Category Name 1,Standard Membership,5/28/2021,5/28/2021,MembershipCategoryID10

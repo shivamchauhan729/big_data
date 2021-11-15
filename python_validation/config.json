@@ -1,0 +1,4 @@
+{
+	"validate_null": "['First Name','Last Name']",
+	"character_check": "[('First Name',40),('Last Name',80)]"
+}

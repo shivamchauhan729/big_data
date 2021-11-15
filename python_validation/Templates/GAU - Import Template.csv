@@ -1,0 +1,6 @@
+GAU Legacy ID,General Accounting Unit Name,Description,Location,Unrestricted?
+AEDS-UNR-NATL,Direct Support - Academic Enrichment,National or club fundraising revenue in support of Academic Enrichment programs,,TRUE
+ASDS-UNR-CHC,Direct Support - Copper Creek All Stars,Copper Heights Club All Stars fundraising revenue,Copper Heights Club,TRUE
+CS-UNR-CHC,Corporate Sponsorship - Copper Creek,Copper Heights Club Corporate Sponsorship,Copper Heights Club,TRUE
+CBDS-R-NATL,Direct Support - Children's Basketball,National or club fundraising revenue in support of Children's Basketball programs,,FALSE
+DS-UNR-POC,Direct Support - Palmer Outreach Center,Palmer Outreach Center fundraising revenue,Palmer Outreach Center,FALSE

@@ -1,0 +1,6 @@
+Relationship Legacy ID,Contact Legacy ID,Description,Related Contact Legacy ID,Status,Type
+DEF123,122,Ronald McHenry is Irene maddox's son ,36812245,Current,Parent
+DEF124,156,Related contact is contact's son,36812452,Current,Parent
+DEF125,36774867,Related contact is contact's son,36812975,Current,Parent
+DEF126,36786050,Related contact is contact's son,36814590,Current,Friend
+DEF127,36806536,Related contact is contact's coworker,36816516,Current,Coworker
