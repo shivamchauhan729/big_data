@@ -1,0 +1,13 @@
+[merchants]
+
+raw_s3_path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\merchants.csv 
+
+file_format = csv
+metrics = Completeness('id'), Distinctness('id'), Minimum('id'), Maximum('id'), Completeness('telephone')
+
+[users]
+
+raw_s3_path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\users.csv 
+
+file_format = csv
+metrics = Completeness('id'), Completeness('email'), Minimum('sign_in_count'), Maximum('sign_in_count')

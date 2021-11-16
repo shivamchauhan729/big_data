@@ -1,0 +1,15 @@
+{"dev":{
+"dataset":["merchants"],
+"merchants":{
+"raw_s3_path":"s3://aws-poc-serverless-analytics/pydeequ/v2/test_data/raw/merchants/",
+"raw_file_format":"csv",
+"clean_source":"s3://aws-poc-serverless-analytics/pydeequ/v2/test_data/clean/merchants_cln/",
+"clean_file_format":"parquet",
+"check_name":"Sellbrite checks",
+"modified_attributes":{"id":"merchant_id"},
+"checks":"isComplete('merchant_id')|isUnique('merchant_id')|isNonNegative('merchant_id')",
+"metrics":"CountDistinct('id')|Size()"}
+
+}
+
+}

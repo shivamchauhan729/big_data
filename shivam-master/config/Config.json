@@ -1,0 +1,7 @@
+[dev]
+source_table = merchants
+Analyzer_S3_Path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\analyzer_files\\merchant_analyzer
+Clean_S3_Path = C:\Users\Shivam\Desktop\training\godaddy\godaddy\data\\merchants.csv
+Modified_Attributes = id:merchants_id, updated_at:modified_at, telephone:contact_no
+New_Checks = Completeness('state'), Completeness('modified_at')
+Format = csv

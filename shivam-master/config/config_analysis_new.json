@@ -1,0 +1,20 @@
+[merchants]
+
+raw_s3_path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\merchants.csv 
+
+file_format = csv
+metrics = Completeness('id')| Distinctness('id')| Minimum('id')| Maximum('id')| Completeness('telephone')
+
+[users]
+
+raw_s3_path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\users.csv 
+
+file_format = csv
+metrics = Completeness('id')| Completeness('email')| Minimum('sign_in_count')| Maximum('sign_in_count')
+
+[orders]
+
+raw_s3_path = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\part-00294-3cd1ad21-da29-4d7e-92a0-f60b45f1b3ba-c000.snappy.parquet 
+
+file_format = parquet
+metrics = Completeness('order_id')| Distinctness('order_id')| Completeness('order_item_count')| Minimum('order_item_count')| Maximum('order_item_count')| Compliance("orderDate greater than createdDate","ordered_at_ts_utc > created_at_ts_utc")| Compliance("items_count more than 1","order_item_count > 1")| Compliance("cancelDate greater than createdDate", "cancelled_at_ts_utc > created_at_ts_utc")

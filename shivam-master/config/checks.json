@@ -1,0 +1,35 @@
+[merchants]
+
+source = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\merchants.csv 
+
+file_format = csv
+
+check_name = Sellbrite checks
+
+checks = isComplete("id"),isUnique("id"),isNonNegative("id")
+
+checks_result = C:\Users\Shivam\Desktop\training\godaddy\godaddy\check_results
+
+
+[users]
+
+source = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\users.csv
+
+file_format = csv
+
+check_name = Sellbrite checks
+
+checks = isComplete("id"),isUnique("id"),isNonNegative("id")
+
+checks_result = C:\Users\Shivam\Desktop\training\godaddy\godaddy\check_results
+
+[orders]
+
+source = C:\\Users\\Shivam\\Desktop\\training\\godaddy\\godaddy\\data\\part-00294-3cd1ad21-da29-4d7e-92a0-f60b45f1b3ba-c000.snappy.parquet
+file_format = parquet
+
+check_name = Sellbrite checks
+
+checks = isComplete("order_id"),isUnique("order_id"),isNonNegative("order_id")
+
+checks_result = C:\Users\Shivam\Desktop\training\godaddy\godaddy\check_results
